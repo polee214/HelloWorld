@@ -1,6 +1,0 @@
-# HelloWorld
-
-Hi Code
-
-Else 
-
